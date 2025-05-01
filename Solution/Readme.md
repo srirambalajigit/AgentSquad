@@ -1,1 +1,1 @@
-Agent Solution Solution package
+Agent Squad Solution package
